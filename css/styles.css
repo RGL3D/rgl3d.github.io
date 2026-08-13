@@ -78,7 +78,7 @@ button { font-family: inherit; cursor: pointer; }
 .logo-badge {
   width: 100px;
   height: 100px;
-  display: block;
+  display: flex;
 }
 
 .brand-name {
