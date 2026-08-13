@@ -76,8 +76,8 @@ button { font-family: inherit; cursor: pointer; }
 }
 
 .logo-badge {
-  width: 46px;
-  height: 46px;
+  width: 100px;
+  height: 100px;
   display: block;
 }
 
