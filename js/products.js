@@ -18,7 +18,7 @@ const PRODUCTS = [
     category: "Bustos Miniatura",
     name: "Busto de Dragón Miniatura",
     images: {
-      principal: "",
+      principal: "images/Manut-XXL.jpg",
       frontal: "",
       lateral: "",
       trasera: ""
